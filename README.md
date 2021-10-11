@@ -7,6 +7,6 @@ Auto Visitor Blog (Custom Refferer)
 $ apt update && apt upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/underxploit/Autov
-$ cd Autov
+$ git clone https://github.com/sammyloaded/traffic
+$ cd traffic
 $ php auto.php
